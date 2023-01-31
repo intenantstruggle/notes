@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etoc.md",
+                "file": "why-etoc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etoc.md",
+                "file": "why-etoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "etoc.md",
+                "file": "why-etoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "etoc.md"
+                "file": "why-etoc.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88615a09b7fbdedf",
+  "active": "2efd8edd02c20ea1",
   "lastOpenFiles": [
+    "etoc.md",
+    "why-etoc.md",
     "images/github-actions.png",
     "callouts.md",
     "updating.md",
