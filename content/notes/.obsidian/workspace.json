@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "ee29489adeba3563",
+        "id": "44a465f759f3351a",
         "type": "tabs",
         "children": [
           {
-            "id": "2efd8edd02c20ea1",
+            "id": "ec7031d4d9da7939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "why-etoc.md",
+                "file": "why-join-etoc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62dc6bc26ce6de25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atus-x-etoc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3596a17c93d3ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "etoc-entrypoints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4633320b2b49adb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atus-x-etoc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "why-etoc.md",
+                "file": "atus-x-etoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "why-etoc.md",
+                "file": "atus-x-etoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "why-etoc.md"
+                "file": "atus-x-etoc.md"
               }
             }
           }
@@ -146,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2efd8edd02c20ea1",
+  "active": "4633320b2b49adb0",
   "lastOpenFiles": [
     "etoc.md",
-    "why-etoc.md",
+    "etoc-curriculum.md",
+    "etoc-entrypoints.md",
+    "why-join-etoc.md",
+    "atus-x-etoc.md",
     "images/github-actions.png",
     "callouts.md",
     "updating.md",
