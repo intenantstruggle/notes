@@ -17,3 +17,11 @@ Check out some of the [amazing gardens that community members](https://quartz.jz
 ![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
+
+## For those using two git accounts:
+```
+git config credential.username intenantstruggle
+git config user.name intenantstruggle
+git config user.email kickasstenantunion@gmail.com
+```
+[Source](https://medium.com/nerd-for-tech/workflow-for-switching-github-accounts-in-your-terminal-d87e50bb5511)
